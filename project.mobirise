@@ -45,7 +45,7 @@
     ],
     "favicon": false,
     "imageResize": false,
-    "robotsSwitcher": false,
+    "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "siteUrl": "https://ebooksdesucesso.mobirisesite.com/sitemap.xml",
@@ -53,7 +53,7 @@
     "uniqCompNum": 34,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "cookiesAlert": false,
     "google-analytics": "<!-- Google Analytics -->\n<script>window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;ga('create', 'UA-156899291-5', 'auto');\nga('send', 'pageview');</script><script async src='https://www.googleanalytics.com/analytics.js'></script>\n<!-- End Google Analytics -->",
     "modified": "2020-05-24T20:39:06.085Z"
